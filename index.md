@@ -2,6 +2,7 @@
 
 
 关于我的一份简历，但博客里面记录的是另外的我 :)
+---
 ### 教育经历
 #### 中南大学
 2015年07月 - 2019年06月
@@ -23,12 +24,14 @@
 - 发表论文于IEEE Internet of Things Journal(中科院一区期刊，影响因子9.936)
 相关课程：数据挖掘，高级数据库原理，矩阵分析
 
+---
 ### 荣誉奖项
 - 中南大学-开立医疗有限公司实验室项目二等奖 2018年
 - 国家级创新创业项目负责人 2018年
 - 第十届英特尔杯全国大学生软件创新大赛（基于深度学习的应用创新）一等奖、最具创业奖 2018年
 - 2019 CCF BDCI & 阿里云数据库分赛道三等奖 2019年
 
+---
 ### 研究经历
 A Trusted Consensus Scheme for Collaborative Learning in Edge AI Computing Domain(学生第一作者)
 作为学生第一作者，撰写论文《A Trusted Consensus Scheme for Collaborative Learning in Edge AI Computing》，于2020年7月录用于SCI一区期刊IEEE Network Magazine，影响因子8.808
@@ -39,6 +42,7 @@ Neural Architecture Search for Robust Networks in 6G-enabled Massive IoT Domain(
 Neural-Architecture-Search-Based Multi-objective Cognitive Automation System(学生第一作者)
 作为学生第一作者，撰写论文《Neural-Architecture-Search-Based Multi-objective Cognitive Automation System》，于2020年7月发表于SCI二区期刊IEEE Systems Journal，影响因子3.987
 
+---
 ### 工作经历
 英特尔上海研发中心 2019年06月 - 2019年12月 上海
 AI实习生 DCG
