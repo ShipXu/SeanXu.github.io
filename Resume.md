@@ -30,13 +30,13 @@
 
 ---
 ### 研究经历
-A Trusted Consensus Scheme for Collaborative Learning in Edge AI Computing Domain(学生第一作者)
+#### A Trusted Consensus Scheme for Collaborative Learning in Edge AI Computing Domain
 作为学生第一作者，撰写论文《A Trusted Consensus Scheme for Collaborative Learning in Edge AI Computing》，于2020年7月录用于SCI一区期刊IEEE Network Magazine，影响因子8.808
 
-Neural Architecture Search for Robust Networks in 6G-enabled Massive IoT Domain(学生第一作者)
+#### Neural Architecture Search for Robust Networks in 6G-enabled Massive IoT Domain
 作为学生一作，撰写论文《Neural Architecture Search for Robust Networks in 6G-enabled Massive IoT Domain》，于2020年11月录用于SCI一区期刊IEEE Internet of Things Journal，影响因子9.936
 
-Neural-Architecture-Search-Based Multi-objective Cognitive Automation System(学生第一作者)
+#### Neural-Architecture-Search-Based Multi-objective Cognitive Automation System
 作为学生第一作者，撰写论文《Neural-Architecture-Search-Based Multi-objective Cognitive Automation System》，于2020年7月发表于SCI二区期刊IEEE Systems Journal，影响因子3.987
 
 ---
