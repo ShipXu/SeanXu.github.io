@@ -1,7 +1,4 @@
-## Welcome to Sean Xu's Pages :)
-
-关于我的一份简历 :)
-
+## Sean Xu
 ---
 ### 教育经历
 #### 中南大学
